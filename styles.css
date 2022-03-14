@@ -1,0 +1,70 @@
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Poppins', sans-serif;
+}
+
+#tituloMenu {
+    color:blue;
+}
+
+h1, h2, h3, h4 {
+    color: midnightblue;
+}
+
+#menu {
+    padding-top: 1rem;
+    text-align: justify;
+}
+
+#nav {
+    color: black;
+}
+
+#iconDorado {
+    color: midnightblue;
+    font-family: 'Poppins', sans-serif;
+}
+
+#tituloForm {
+    color: midnightblue;
+    font-family: 'Poppins', sans-serif;
+}
+
+#tituloAcordeon {
+    color: midnightblue;
+}
+
+#contact {
+    text-align: center;
+}
+
+#contact2 {
+    text-align: center;
+    padding-top: 1.5rem;
+}
+
+#numero {
+    font-size: small;
+}
+
+#tituloContact {
+    font-size: large;
+}
+
+button.contact {
+    color: midnightblue;
+    font-family: 'Poppins', sans-serif;
+}
+
+#footer {
+    background-color: lavender;
+    text-align: justify;
+}
+
+#tituloFooter {
+    color: blue;
+}
+
+#links {
+    color: black;
+}
